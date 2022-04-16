@@ -1,4 +1,7 @@
 this is my first git hub file 
 added content
+<<<<<<< HEAD
 checking git hub edit for local repo
 addting text to check push
+=======
+>>>>>>> parent of 4265c3f (Update f1)
